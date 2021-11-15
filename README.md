@@ -1,8 +1,13 @@
 # Handmade Soap
 
-Live Site:
+Live Site: https://soapdb-assignment12.web.app/
+
+or,
+
+https://soapdb-assignment12.firebaseapp.com/
+
 <br/>
-Server Site:
+Server Site: https://salty-hamlet-93150.herokuapp.com/
 
 ## Features:
 
@@ -46,7 +51,6 @@ Server Site:
 
 - Express
 - MongoDB
-- Body-parser
 - Cors
 - Nodemon
 - dotenv
