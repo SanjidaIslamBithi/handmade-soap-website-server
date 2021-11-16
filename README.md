@@ -46,6 +46,7 @@ Server Site: https://salty-hamlet-93150.herokuapp.com/
 - React-hook-form
 - React-Bootstrap
 - Firebase Auth
+- React-raiting
 
 #### Server Site:
 
