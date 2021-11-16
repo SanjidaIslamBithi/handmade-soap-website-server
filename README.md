@@ -19,7 +19,7 @@ Server Site: https://salty-hamlet-93150.herokuapp.com/
 
 - A client can sign in with Google
 - A client can order for a product which will save in a database
-- A client can pay with credit card
+- A client can comment. Can update/edit the comment. Can also give raiting. Raiting/comment are saved in db.
 - A client can also see their own ordered list and current status in their dashboard
 - A client can give review about the services which will be visible in the review section<br/>
 

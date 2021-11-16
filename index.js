@@ -216,6 +216,7 @@ async function run() {
         $set: {
           name: updatedComment.name,
           comment: updatedComment.comment,
+          raiting: updatedComment.raiting,
         },
       };
       const result = await commentCollectionInhome.updateOne(
